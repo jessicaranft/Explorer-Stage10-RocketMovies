@@ -2,12 +2,12 @@
 
 # Status:
 
-- WIP: The app will be deployed soon and made available for testing online!
+- Complete
 
 # Description
 This is a project designed to integrate the front-end and back-end I developed in the links below:
-- [Back-end](https://github.com/jessicaranft/Explorer-Stage08-MovieNotes)
-- [Front-end](https://github.com/jessicaranft/Explorer-Stage09-RocketMovies)
+- [Back-end](https://github.com/jessicaranft/rocketmovies-backend)
+- [Front-end](https://github.com/jessicaranft/rocketmovies-frontend)
 
 # Main stack:
 
