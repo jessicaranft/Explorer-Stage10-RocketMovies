@@ -1,17 +1,21 @@
 # RocketMovies Web App
 
-# Status:
+# Status: Complete
 
-- Complete
+- See the deployed app here: https://rocketmovies-frontend.netlify.app/
+- You can create your own user, add movies, add avatar images, etc.
 
 # Description
-This is a project designed to integrate the front-end and back-end I developed in the links below:
+This is a project designed to integrate the front-end and back-end of the RocketMovies web app. The files in this repository are not configured for deployment, only for local testing.
+
+For the deployed repositories, see:
 - [Back-end](https://github.com/jessicaranft/rocketmovies-backend)
 - [Front-end](https://github.com/jessicaranft/rocketmovies-frontend)
 
-# Main stack:
+# Main stacks:
 
-- React
+- ReactJS
+- NodeJS
 
 # About
 
